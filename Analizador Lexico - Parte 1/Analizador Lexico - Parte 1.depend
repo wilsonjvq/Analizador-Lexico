@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666233951 source:c:\users\acer\desktop\analizador lexico - parte 1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctype.h>
+	<iostream>
+	<fstream>
+	<string>
+	<ctype.h>
+

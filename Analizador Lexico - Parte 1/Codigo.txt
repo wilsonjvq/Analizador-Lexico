@@ -1,0 +1,9 @@
+int main(){
+    int i,
+    float x; int[10] a;
+    if( true ){
+        cin << i;
+        x = i/2;
+    }
+    return 0;
+}
